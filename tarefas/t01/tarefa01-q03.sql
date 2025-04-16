@@ -1,3 +1,4 @@
+--QUESTÃO 3 DA LISTA
 SELECT f.nome, f.dt_nasc
 FROM funcionario f
 JOIN departamento d ON f.cod_depto = d.codigo
