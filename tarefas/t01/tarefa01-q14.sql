@@ -1,3 +1,5 @@
+--QUESTÃO 14 DA LISTA
+
 -- Criação da view
 CREATE VIEW vw_func_ativ AS
 SELECT f.nome, a.codigo AS cod_atividade
