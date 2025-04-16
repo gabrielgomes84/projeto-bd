@@ -12,7 +12,12 @@ INSERT INTO funcionario (codigo, nome, sexo, dt_nasc, salario, cod_depto) VALUES
 (2, 'Maria Oliveira', 'F', '1990-08-22', 4500, 2),
 (3, 'Carlos Souza', 'M', '1982-11-15', 4000, 3),
 (4, 'Ana Costa', 'F', '1988-03-18', 6000, 4),
-(5, 'Pedro Almeida', 'M', '1995-01-25', 3500, 5);
+(5, 'Pedro Almeida', 'M', '1995-01-25', 3500, 5),
+(6, 'Lucas Santos', 'M', '2000-06-12', 4500, 1),
+(7, 'Fernanda Lima', 'F', '1993-11-05', 4700, 2),
+(8, 'Ricardo Silva', 'M', '1998-09-09', 3900, 3),  
+(9, 'Patrícia Almeida', 'F', '1987-02-20', 5200, 4),
+(10, 'Carlos Pereira', 'M', '1996-05-30', 4100, 5);
 
 -- Inserindo dados na tabela projeto
 INSERT INTO projeto (codigo, nome, descricao, cod_depto, cod_responsavel, data_inicio, data_fim) VALUES
