@@ -1,3 +1,4 @@
+--QUESTÃO 17 DA LISTA
 SELECT p.codigo, p.descricao
 FROM projeto p
 JOIN departamento d ON p.cod_depto = d.codigo
