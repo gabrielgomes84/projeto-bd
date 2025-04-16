@@ -7,4 +7,9 @@
 - [tarefa01-inserts.sql](tarefa01-inserts.sql)
 
 ## Consultas Resolvidas
-(Links para os arquivos `.sql` das questões que você vai resolver depois)
+
+- [tarefa01-q01.sql](tarefa01-q01.sql)
+- [tarefa01-q03.sql](tarefa01-q03.sql)
+- [tarefa01-q06.sql](tarefa01-q06.sql)
+- [tarefa01-q14.sql](tarefa01-q14.sql)
+- [tarefa01-q17.sql](tarefa01-q17.sql)
